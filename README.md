@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="attachments/i69qGXWL3AN5w1VDyjW33.png" alt="Java Logo" width="200"/><br><br>
+  <img src="https://i.blogs.es/e7b69c/java_logo/450_1000.webp" alt="Java Logo" width="200"/><br><br>
 </p>
 
 # Java Básico ☕
